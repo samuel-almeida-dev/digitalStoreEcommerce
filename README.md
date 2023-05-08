@@ -43,6 +43,3 @@ Faça o push do seu branch para o seu fork:
 git push origin nome-da-sua-branch
 
 Abra um pull request para o repositório original e aguarde a revisão e aceitação das suas alterações.
-
-Licença
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações.
