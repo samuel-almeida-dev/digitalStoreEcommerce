@@ -1,4 +1,4 @@
-# digitalStoreEcommerce
+# Digital Store E-commerce
 Segunda prática com HTML/CSS - Curso FullStack Digital College - T18
 Este é um projeto de desenvolvimento de um ecommerce, criado para o curso Digital College Full Stack, turma 18.
 
@@ -19,15 +19,11 @@ Funcionalidades principais
 - Adição de produtos
 - Finalização de compra
 
-Como usar
 Para utilizar o projeto, siga as instruções abaixo:
 
 Clone o repositório para o seu computador:
-bash
-Copy code
 git clone https://github.com/seu-nome-de-usuário/nome-do-repositório.git
-Abra o arquivo index.html em seu navegador.
-Como contribuir
+
 Se você deseja contribuir para o projeto, siga as etapas abaixo:
 
 Faça um fork do repositório.
